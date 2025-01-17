@@ -8,8 +8,6 @@
 
 ## 一. 项目简介
 
-![video](/example_md/result.mp4 "EXAMPLE")
-
 - 基于 `TensorRT-v8` ，部署`YOLO11s` 实时跟踪图传；
 - 模型转换方式：`.pt` -> `.onnx` -> `.plan(.engine)`；
 

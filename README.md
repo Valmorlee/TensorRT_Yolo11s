@@ -2,7 +2,7 @@
 
 ## 写在前面
 - **个人 IDE 选择** `JetBrains CLion` 
-- **原作者仓库** ` https://github.com/xiaocao-tian/yolov8_tensorrt`
+- **原作者仓库** ` https://github.com/emptysoal/TensorRT-YOLO11`
 > 此仓库仅供自己 ***学习探究*** 与 ***深挖拓展*** 使用
 
 

@@ -6,7 +6,8 @@
 > 此仓库仅供自己 ***学习探究*** 与 ***深挖拓展*** 使用
 
 
-## 一. 项目简介
+## 一. 项目简介 
+![LoveUBabe](/example_md/result.gif "LoveUBabe")
 
 - 基于 `TensorRT-v8` ，部署`YOLO11s` 实时跟踪图传；
 - 模型转换方式：`.pt` -> `.onnx` -> `.plan(.engine)`；
